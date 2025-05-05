@@ -5,4 +5,5 @@ Cách 1:
 - Chạy lệnh labtainer -r stego-whitespace-endtext để bắt đầu bài lab.
 
 Cách 2:
-- Chạy lệnh imodule 
+- Chạy lệnh imodule https://github.com/trangpham1302/stego-whitespace-endtext/raw/refs/heads/main/imodule.tar
+- Chạy lệnh labtainer -r stego-whitespace-endtext để bắt đầu bài lab.
